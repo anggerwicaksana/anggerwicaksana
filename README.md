@@ -18,21 +18,18 @@ Curious about software engineering, data & AI, and building modern web applicati
 
 ---
 
-#### 📌 What I'm Up To
+#### 📌 Focus & Interests
 
 - 🔭 Exploring modern full-stack web development & AI integrations
-- 🌱 Continuously learning best practices in clean architecture & interface design
-- 💬 Open for discussions, networking, and collaborative learning
+- 🌱 Continuously learning clean architecture & pragmatic engineering
+- 💡 Building lightweight, useful tools and experiments
 
 ---
 
 #### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggerwicaksana)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggerwicaksana)
+[![Website](https://img.shields.io/badge/Website-angger.akukatiga.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angger.akukatiga.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anggerwicaksana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggerwicaksana)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anggerwicaksana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 <p align="center"><sub><i>Stay humble, keep learning, keep building.</i></sub></p>
