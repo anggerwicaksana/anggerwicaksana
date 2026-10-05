@@ -1,35 +1,45 @@
-### Hi, I'm Angger 👋
+# Angger Wicaksana
 
-Tech enthusiast & lifelong learner based in Indonesia 🇮🇩.  
-Curious about software engineering, data & AI, and building modern web applications.
-
----
-
-#### 🛠️ Tech & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> **Systems & Applied AI Engineer** · Specializing in Industrial Safety Intelligence, Distributed Edge Systems & Resilient Web Architectures.  
+> Based in Indonesia 🇮🇩 · Founder & Architect at [akukatiga.com](https://angger.akukatiga.com)
 
 ---
 
-#### 📌 Focus & Interests
+### 🏛️ Engineering Philosophy & Core Focus
 
-- 🔭 Exploring modern full-stack web development & AI integrations
-- 🌱 Continuously learning clean architecture & pragmatic engineering
-- 💡 Building lightweight, useful tools and experiments
+I design and build production-grade software bridging **industrial domain intelligence (HSE & Mining Safety)** with **modern edge computing and applied artificial intelligence**.
+
+- **Industrial Safety Intelligence**: Pioneering data-driven safety systems, predictive risk modeling, and compliance automation for high-hazard industries.
+- **Edge-First Architectures**: Building low-latency, resilient distributed applications leveraging Cloudflare Workers, D1, serverless compute, and containerized backends.
+- **Pragmatic AI Systems**: Implementing structured LLM agents, deterministic workflow orchestration, and predictive analytics that solve high-stakes operational problems.
 
 ---
 
-#### 📬 Connect With Me
+### ⚡ Technical Competencies
+
+| Domain | Systems & Stack |
+| :--- | :--- |
+| **Languages & Systems** | `TypeScript` `Python` `JavaScript (ESNext)` `SQL` `Bash` |
+| **Distributed & Edge** | `Cloudflare Workers / Pages / D1` `Serverless` `REST APIs` `Microservices` |
+| **Frontend Engineering** | `React` `Next.js` `Tailwind CSS` `Modern Web Standards` `Accessible Design` |
+| **Backend & Databases** | `Node.js` `FastAPI` `PostgreSQL` `SQLite` `Prisma ORM` `Docker` |
+| **Applied AI & Data** | `LLM Tooling & Agents` `Predictive Risk Modeling` `PyTorch` `Pandas` `Analytics Pipelines` |
+| **DevOps & Quality** | `GitHub Actions (CI/CD)` `Linux Systems` `Containerization` `Observability` |
+
+---
+
+### 🔬 Featured Initiatives
+
+- **[MineRisk AI](https://github.com/anggerwicaksana/minerisk-ai)** — Predictive risk modeling and assessment platform engineered for heavy industry & mining operations.
+- **[Aku K3 / SHELAMET Platform](https://angger.akukatiga.com)** — Digital occupational health, safety & environment (HSE) platform delivering operational training and compliance ecosystems.
+
+---
+
+### 📬 Technical Engagements & Advisory
 
 [![Website](https://img.shields.io/badge/Website-angger.akukatiga.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angger.akukatiga.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anggerwicaksana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggerwicaksana)
+[![GitHub](https://img.shields.io/badge/GitHub-anggerwicaksana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggerwicaksana)
 
 ---
-<p align="center"><sub><i>Stay humble, keep learning, keep building.</i></sub></p>
+<p align="center"><sub><i>"Simplicity is prerequisite for reliability. Build pragmatic, resilient, and domain-grounded systems."</i></sub></p>
