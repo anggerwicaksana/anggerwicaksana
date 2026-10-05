@@ -1,45 +1,37 @@
-# Angger Wicaksana
+### Hi, I'm Angger 👋
 
-> **Systems & Applied AI Engineer** · Specializing in Industrial Safety Intelligence, Distributed Edge Systems & Resilient Web Architectures.  
-> Based in Indonesia 🇮🇩 · Founder & Architect at [akukatiga.com](https://angger.akukatiga.com)
-
----
-
-### 🏛️ Engineering Philosophy & Core Focus
-
-I design and build production-grade software bridging **industrial domain intelligence (HSE & Mining Safety)** with **modern edge computing and applied artificial intelligence**.
-
-- **Industrial Safety Intelligence**: Pioneering data-driven safety systems, predictive risk modeling, and compliance automation for high-hazard industries.
-- **Edge-First Architectures**: Building low-latency, resilient distributed applications leveraging Cloudflare Workers, D1, serverless compute, and containerized backends.
-- **Pragmatic AI Systems**: Implementing structured LLM agents, deterministic workflow orchestration, and predictive analytics that solve high-stakes operational problems.
+Tech enthusiast & developer based in Indonesia 🇮🇩.  
+Just exploring code, building practical tools, and learning something new every day.
 
 ---
 
-### ⚡ Technical Competencies
+#### 🛠️ Tech & Tools
 
-| Domain | Systems & Stack |
-| :--- | :--- |
-| **Languages & Systems** | `TypeScript` `Python` `JavaScript (ESNext)` `SQL` `Bash` |
-| **Distributed & Edge** | `Cloudflare Workers / Pages / D1` `Serverless` `REST APIs` `Microservices` |
-| **Frontend Engineering** | `React` `Next.js` `Tailwind CSS` `Modern Web Standards` `Accessible Design` |
-| **Backend & Databases** | `Node.js` `FastAPI` `PostgreSQL` `SQLite` `Prisma ORM` `Docker` |
-| **Applied AI & Data** | `LLM Tooling & Agents` `Predictive Risk Modeling` `PyTorch` `Pandas` `Analytics Pipelines` |
-| **DevOps & Quality** | `GitHub Actions (CI/CD)` `Linux Systems` `Containerization` `Observability` |
-
----
-
-### 🔬 Featured Initiatives
-
-- **[MineRisk AI](https://github.com/anggerwicaksana/minerisk-ai)** — Predictive risk modeling and assessment platform engineered for heavy industry & mining operations.
-- **[Aku K3 / SHELAMET Platform](https://angger.akukatiga.com)** — Digital occupational health, safety & environment (HSE) platform delivering operational training and compliance ecosystems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📬 Technical Engagements & Advisory
+#### 📌 Side Projects & Interests
 
-[![Website](https://img.shields.io/badge/Website-angger.akukatiga.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angger.akukatiga.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anggerwicaksana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggerwicaksana)
-[![GitHub](https://img.shields.io/badge/GitHub-anggerwicaksana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggerwicaksana)
+- 🧪 Tinkering with web development, automation, and applied AI
+- 👷 Building tools around safety & operational workflows
+- 📚 Curious about clean code and simple, maintainable architecture
 
 ---
-<p align="center"><sub><i>"Simplicity is prerequisite for reliability. Build pragmatic, resilient, and domain-grounded systems."</i></sub></p>
+
+#### 📬 Connect
+
+[![Website](https://img.shields.io/badge/Website-angger.akukatiga.com-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://angger.akukatiga.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anggerwicaksana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggerwicaksana)
+
+---
+<p align=\"center\"><sub><i>Stay curious, stay humble, keep building.</i></sub></p>
