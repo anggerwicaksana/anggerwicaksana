@@ -1,6 +1,7 @@
 ### Hi, I'm Angger 👋
 
-Tech enthusiast & lifelong learner based in Indonesia 🇮🇩. Exploring code, building practical tools, and tinkering with modern web & AI.
+Tech enthusiast & lifelong learner based in Indonesia 🇮🇩.  
+Curious about software engineering, data & AI, and building modern web applications.
 
 ---
 
@@ -17,11 +18,11 @@ Tech enthusiast & lifelong learner based in Indonesia 🇮🇩. Exploring code, 
 
 ---
 
-#### 📊 GitHub Activity
+#### 📌 What I'm Up To
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anggerwicaksana&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+- 🔭 Exploring modern full-stack web development & AI integrations
+- 🌱 Continuously learning best practices in clean architecture & interface design
+- 💬 Open for discussions, networking, and collaborative learning
 
 ---
 
@@ -31,4 +32,7 @@ Tech enthusiast & lifelong learner based in Indonesia 🇮🇩. Exploring code, 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggerwicaksana)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anggerwicaksana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center"><sub><i>Stay humble, keep learning, keep building.</i></sub></p>
